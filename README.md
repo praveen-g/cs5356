@@ -107,6 +107,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
 * [Omri Sass](people/omri-sass.md)
 * [Peter Tran](people/peter-tran.md)
+* [Praveen Gupta](people/praveen-gupta.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Sonia Sen](people/sonia-sen.md)
